@@ -1,6 +1,8 @@
 ## Generate (and fix) a merge conflict
 
-Your name: Burak Ozcaglar Date: _____
+Your name: Burak Ozcaglar  Date: 2025-07-28
+
+>>>>>>> 2590c0cf9184bf0e5f838a62adf8c1e58b424d5f
 
 This assignment provides some practice in how to create and resolve merge conflicts. First, fork the assignment from the link below:
 
