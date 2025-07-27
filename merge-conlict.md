@@ -1,7 +1,6 @@
 ## Generate (and fix) a merge conflict
 
-Your name: _____ Date: _____
-
+Your name: Burak Ozcaglar Date: _____
 
 This assignment provides some practice in how to create and resolve merge conflicts. First, fork the assignment from the link below:
 
@@ -21,5 +20,4 @@ After `cloning` the assignment you should make two commits:
 (4) Pull the changes from GitHub to your computer. You should now see a merge conflict in VS Code. Fix the merge conflict by removing the lines with `<<<<<<<` and `>>>>>>>` and commit the changes.
 (5) Push the changes to GitHub. You should now see the changes on GitHub.
 
-
-If you have any problems create screenshots and post to <https://piazza.com/ucsd/summer2023/rady499>
+If you have any problems create screenshots and post to [https://piazza.com/ucsd/summer2023/rady499](https://piazza.com/ucsd/summer2023/rady499)
